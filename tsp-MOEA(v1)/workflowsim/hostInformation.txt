@@ -1,0 +1,4 @@
+1 C1 IntelX1 250
+2 C2 IntelX2 500 
+3 C3 IntelX3 750
+4 C4 IntelX4 1700 
