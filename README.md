@@ -23,4 +23,4 @@ Xie H, Ding D, Zhao L, et al. A two-stage preference driven multi-objective evol
 Due to GitHub's file size limitations, we have only uploaded the core code for tsp-MOEA. You may encounter challenges running the code in its entirety. If you need access to the complete code, feel free to reach out to us without hesitation.
 
 # Contact
-fhzm1995@163.com or 20112033@bjtu.edu.cn
+qianyue17@gmail.com or 20112033@bjtu.edu.cn
